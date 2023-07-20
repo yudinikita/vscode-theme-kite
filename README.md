@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://github.com/nblackninja/stat-master/assets/36636599/8fb1cecc-b5da-4177-81bc-0356fd367089" alt="Kite Theme logo" width="150">
+   <img src="https://github.com/nblackninja/vscode-theme-kite/assets/36636599/9551c408-92b5-46e6-9a5c-7af9769a3ac1" alt="Kite Theme logo" width="150">
 </p>
 
 <h3 align="center">Kite Theme</h3>
