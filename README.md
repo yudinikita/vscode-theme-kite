@@ -26,7 +26,7 @@ You can choose between **Kite Light** and **Kite Dark** themes.
 
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nblackninja.vscode-theme-kite).
 2. Click on the **Install** button.
-3. Then ![select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
+3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
     - `Kite Dark`
     - `Kite Light`
 
