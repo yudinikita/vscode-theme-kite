@@ -7,7 +7,7 @@
 <p align="center">
   Kite Theme is a modern and stylish theme that looks really cool with its different colors and simple design.
   <br>
-  <a href="https://marketplace.visualstudio.com/items?itemName=nblackninja.vscode-theme-kite"><strong>VS Code Marketplace »</strong></a>
+  <a href="https://marketplace.visualstudio.com/items?itemName=yudinikita.vscode-theme-kite"><strong>VS Code Marketplace »</strong></a>
 </p>
 
 # 🎨 Kite VS Code Theme
@@ -24,7 +24,7 @@ You can choose between **Kite Light** and **Kite Dark** themes.
 
 ## 📝 Getting started
 
-1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=nblackninja.vscode-theme-kite).
+1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yudinikita.vscode-theme-kite).
 2. Click on the **Install** button.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
     - `Kite Dark`
