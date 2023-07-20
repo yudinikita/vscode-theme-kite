@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Kite Theme</title>
+  </head>
+  <body>
+    <!-- This is an example HTML comment. -->
+    <h1>This is a level 1 heading</h1>
+
+    <!-- Image Element -->
+    <img src="example.jpg" alt="An example image" />
+
+    <!-- Form Element -->
+    <form action="submit.php" method="post">
+      <label for="name">Name:</label>
+      <input type="text" id="name" name="name" />
+
+      <label for="email">Email:</label>
+      <input type="email" id="email" name="email" />
+
+      <button type="submit">Submit</button>
+    </form>
+
+    <script>
+      // ...there was a guy named Vlad
+      const form = document.querySelector('form')
+      form.addEventListener('submit', e => {
+        const { name, email } = e.target
+        const formattedName = name.value.toUpperCase()
+        const formattedEmail = email.value.toUpperCase()
+      })
+    </script>
+  </body>
+</html>

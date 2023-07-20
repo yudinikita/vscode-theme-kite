@@ -1,0 +1,62 @@
+/*
+ * Colorful soaring kite!
+ */
+
+body {
+  background-color: #f2f2f2;
+  color: --mainColor;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* This is a selector */
+h1 {
+  font-size: 42px;
+}
+
+.intro {
+  font-weight: bold;
+}
+
+#main {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+a:hover {
+  color: red;
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    font-size: 14px;
+  }
+}
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.2);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.logo {
+  animation-name: pulse;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
+
+@font-face {
+  font-family: 'Arial';
+  src: url('/fonts/Arial.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}

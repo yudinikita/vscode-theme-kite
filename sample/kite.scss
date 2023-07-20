@@ -1,0 +1,30 @@
+$primary-color: #aa0000;
+$secondary-color: #00aa00;
+
+@mixin button($bg-color) {
+  background-color: $bg-color;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+
+  &:hover {
+    background-color: darken($bg-color, 10%);
+  }
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: $primary-color;
+}
+
+.button {
+  @include button($secondary-color);
+}

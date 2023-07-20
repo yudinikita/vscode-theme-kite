@@ -1,0 +1,22 @@
+# YAML Example
+
+name: John Doe
+age: 30
+is_student: true
+
+fruits:
+  - apple
+  - banana
+  - orange
+
+person: &person
+  name: Alice
+  age: 25
+
+description: |
+  This is a multi-line string
+  that spans multiple lines.
+
+friend:
+  <<: *person
+  name: Bob

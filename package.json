@@ -1,0 +1,42 @@
+{
+  "name": "vscode-theme-kite",
+  "displayName": "Kite Theme",
+  "description": "Kite Theme is a modern and stylish theme that looks really cool with its dark colors and simple design.",
+  "version": "1.0.0",
+  "publisher": "nblackninja",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nblackninja/vscode-theme-kite"
+  },
+  "bugs": {
+    "url": "https://github.com/nblackninja/vscode-theme-kite/issues"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "kite",
+    "light",
+    "dark"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kite Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kite-dark.json"
+      },
+      {
+        "label": "Kite Light",
+        "uiTheme": "vs",
+        "path": "./themes/kite-light.json"
+      }
+    ]
+  }
+}
