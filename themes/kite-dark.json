@@ -669,6 +669,14 @@
       "settings": {
         "foreground": "#6EB0FC"
       }
+    },
+
+    // .py
+    {
+      "scope": ["meta.indexed-name.python"],
+      "settings": {
+        "foreground": "#91E684"
+      }
     }
   ]
 }
