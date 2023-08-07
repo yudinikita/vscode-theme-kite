@@ -12,7 +12,7 @@
 
 # 🎨 Kite VS Code Theme
 
-You can choose between **Kite Light** and **Kite Dark** themes.
+You can choose between **Kite Light**, **Kite Dark** and **Kite Darker** themes. The following languages are supported: `C`, `C++`, `Clojure`, `C#`, `CSS`, `Dart`, `Go`, `HTML`, `Java`, `JavaScript`, `JSON`, `JSX`, `Kotlin`, `Markdown`, `PHP`, `Python`, `Ruby`, `Rust`, `Scala`, `SCSS`, `Swift`, `TypeScript`, `YAML`.
 
 ### 🌚 Kite Dark
 
@@ -33,6 +33,7 @@ You can choose between **Kite Light** and **Kite Dark** themes.
 3. Then [select a theme](https://code.visualstudio.com/docs/getstarted/themes#_selecting-the-color-theme).
     - `Kite Dark`
     - `Kite Light`
+    - `Kite Darker`
 
 ## 💬 Note
 
