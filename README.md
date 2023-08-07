@@ -22,6 +22,10 @@ You can choose between **Kite Light** and **Kite Dark** themes.
 
 ![Kite Light Preview](images/preview-light.png)
 
+### 🌑 Kite Darker
+
+![Kite Darker Preview](images/preview-darker.png)
+
 ## 📝 Getting started
 
 1. Go to the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=yudinikita.vscode-theme-kite).

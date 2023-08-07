@@ -2,6 +2,10 @@
 
 All notable changes to the "vscode-theme-kite" extension will be documented in this file.
 
+## 1.1.0
+
+- Add Kite Darker theme
+
 ## 1.0.2
 
 - Add meta.indexed-name for python
