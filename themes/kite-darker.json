@@ -13,7 +13,8 @@
 
     // Activity Bar
     "activityBar.foreground": "#C7CED6",
-    "activityBar.background": "#272D35",
+    "activityBar.background": "#22282F",
+    "activityBar.border": "#2D353E",
     "activityBar.inactiveForeground": "#586779",
     "activityBarBadge.foreground": "#E4E8EC",
     "activityBarBadge.background": "#0A7AFA",

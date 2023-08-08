@@ -2,6 +2,10 @@
 
 All notable changes to the "vscode-theme-kite" extension will be documented in this file.
 
+## 1.1.2
+
+- Change background color for activity bar
+
 ## 1.1.1
 
 - Add description for supported languages
